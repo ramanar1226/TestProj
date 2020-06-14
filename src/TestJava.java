@@ -8,6 +8,8 @@ public class TestJava {
 		System.out.println("stash changes latest");
 
 		System.out.println("Master");
+		
+		System.out.println("stash");
 
 	}
 
