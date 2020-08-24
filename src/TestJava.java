@@ -12,6 +12,8 @@ public class TestJava {
 		System.out.println("stash");
 		
 		System.out.println("branch new");
+		
+		System.out.println("branch changes new");
 
 	}
 
