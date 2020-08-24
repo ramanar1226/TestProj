@@ -10,6 +10,8 @@ public class TestJava {
 		System.out.println("Master");
 		
 		System.out.println("stash");
+		
+		System.out.println("master");
 
 	}
 
